@@ -1,0 +1,5 @@
+face-recognition==1.3.0
+opencv-python==4.7.0.72
+Flask==2.3.2
+numpy==1.24.3
+mysql-connector-python==8.0.33
